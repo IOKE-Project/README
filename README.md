@@ -10,7 +10,7 @@ Project scope entails development of a crowdfunding / donation platform using bl
 4. Securing funding through other businesses & investors
 
 
-Description of Functionality 
+How it works? 
 
 Each project should register to the website and submit an application form, with the short description of the project and any other additional information they would consider useful, to increase support from the community. 
 All the projects will receive a small amount as sponsorship from the pool; amount to be determined, for example 2000 IOKE at the beginning. 
